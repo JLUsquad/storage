@@ -58,10 +58,10 @@ $ ssh -T git@github.com
 
 ## 日常使用
 
-`git add .`添加文件到缓存区域
-`git commit -m '本次更新的信息'`将文件添加到本地分支
-`git pull`将远程分支和本地分支合并
-`git push`同步远程和本地
+* `git add .`添加文件到缓存区域
+* `git commit -m '本次更新的信息'`将文件添加到本地分支
+* `git pull`将远程分支和本地分支合并
+* `git push`同步远程和本地
 
 ## 参考教程
 
