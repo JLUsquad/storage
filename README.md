@@ -42,7 +42,7 @@ $ ssh -T git@github.com
 
 以两种不同的情况讨论。
 
-### 本地以存在代码
+### 本地已存在代码
 
 1. 在github上建立repository，但不添加README.md文件。
 2. 在本地文件夹中:
